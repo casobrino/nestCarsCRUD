@@ -6,5 +6,5 @@
 
 Populate DB
 ```
-http://localhost:300/seed
+http://localhost:3000/seed
 ```
